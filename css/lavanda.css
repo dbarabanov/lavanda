@@ -1,0 +1,6 @@
+.navbar-light .navbar-nav .nav-link{
+    color: #CCCCCC;
+    font-style: italic;
+    font-size: 0.9rem;
+    transition: color 0.4s;
+}
